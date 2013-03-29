@@ -16,8 +16,10 @@ Installation:
 
 After installation you can use Maror by opening your R Console and typing:
 
-```library(shiny,quantmod)```
-```runGitHub("maror", "seankross")```
+```
+library(shiny,quantmod)
+runGitHub("maror", "seankross")
+```
 
 Maror is built with [R](http://www.r-project.org/), [Shiny](http://www.rstudio.com/shiny/),
 and [Quantmod](http://www.quantmod.com/).
